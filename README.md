@@ -17,9 +17,9 @@ NOTE: Thanks to [ladi-vton](https://github.com/miccunifi/ladi-vton), [DisCo](htt
 - [x] Code for model
 - [x] Trained checkpoint
 - [x] Code for evaluation on VVT dataset
-- [] Warping model
-- [] Code for training
-- [] Code for general inference
+- [ ] Warping model
+- [ ] Code for training
+- [ ] Code for general inference
 
 ## Model checkpoint
 - [VAE](https://drive.google.com/file/d/1AFEIZAtiSvwbdcJxuBAxLfxexY104tpQ/view?usp=drive_link)
